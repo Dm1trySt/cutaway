@@ -1,1 +1,1 @@
-Чтение строк из XML файла
+The program converts a business card in xml format to html format
