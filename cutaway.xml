@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding='UTF-8' ?>
 <cutaway>
+  <photo>./image/face.jpg</photo>
   <name>Иван</name>
   <middle_name>Андреевич</middle_name>
   <surname>Попов</surname>
